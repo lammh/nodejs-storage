@@ -4,6 +4,26 @@
 
 [1]: https://www.npmjs.com/package/nodejs-storage?activeTab=versions
 
+## [5.0.0](https://www.github.com/googleapis/nodejs-storage/compare/v4.7.0...v5.0.0) (2020-04-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop support for node.js 8.x
+
+### Bug Fixes
+
+* add whitespace to generateV4SignedPolicy ([#1136](https://www.github.com/googleapis/nodejs-storage/issues/1136)) ([dcee78b](https://www.github.com/googleapis/nodejs-storage/commit/dcee78b98da23b02fe7d2f13a9270546bc07bba8))
+* apache license URL ([#468](https://www.github.com/googleapis/nodejs-storage/issues/468)) ([#1151](https://www.github.com/googleapis/nodejs-storage/issues/1151)) ([e8116d3](https://www.github.com/googleapis/nodejs-storage/commit/e8116d3c6fa7412858692e67745b514eef78850e))
+* **deps:** update dependency @google-cloud/common to v3 ([#1134](https://www.github.com/googleapis/nodejs-storage/issues/1134)) ([774ac5c](https://www.github.com/googleapis/nodejs-storage/commit/774ac5c75f02238418cc8ed7242297ea573ca9cb))
+* **deps:** update dependency @google-cloud/paginator to v3 ([#1131](https://www.github.com/googleapis/nodejs-storage/issues/1131)) ([c1614d9](https://www.github.com/googleapis/nodejs-storage/commit/c1614d98e3047db379e09299b1014e80d73ed52f))
+* **deps:** update dependency @google-cloud/promisify to v2 ([#1127](https://www.github.com/googleapis/nodejs-storage/issues/1127)) ([06624a5](https://www.github.com/googleapis/nodejs-storage/commit/06624a534cd1fdbc38455eee8d89f9f60ba75758))
+
+
+### Build System
+
+* drop support for node.js 8.x ([b80c025](https://www.github.com/googleapis/nodejs-storage/commit/b80c025f106052fd25554c64314b3b3520e829b5))
+
 ## [4.7.0](https://www.github.com/googleapis/nodejs-storage/compare/v4.6.0...v4.7.0) (2020-03-26)
 
 
